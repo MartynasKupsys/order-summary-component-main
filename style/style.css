@@ -1,0 +1,28 @@
+body {
+  background-image: url(../images/pattern-background-desktop.svg);
+  /* background-position: top; */
+  background-color: hsl(225, 100%, 94%);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+
+}
+
+#card-content {
+  background-color: white;
+}
+
+#plan {
+  background-color: hsl(225, 100%, 97%);
+}
+
+p {
+  font-size: 16px;
+}
+
+#card-image {
+  overflow: hidden;
+  border-radius: 25px 25px 0px 0px;
+}
+
+
